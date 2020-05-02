@@ -4,6 +4,6 @@ SwgDatabaseServer local bin/SwgDatabaseServer -- @servercommon.cfg
 PlanetServer local bin/PlanetServer -- @servercommon.cfg
 SwgGameServer local bin/SwgGameServer -- @servercommon.cfg
 ChatServer local bin/ChatServer -- @servercommon.cfg
-LogServer local bin/LogServer -- @servercommon.cfg @logServerTargets.cfg
+LogServer local bin/LogServer -- @servercommon.cfg
 #MetricsServer local bin/MetricsServer -- @servercommon.cfg
 CommoditiesServer local bin/CommoditiesServer -- @servercommon.cfg
